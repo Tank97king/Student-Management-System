@@ -32,8 +32,4 @@
 
 ---
 
-## 🛠 Hướng dẫn cài đặt
 
-### 1. Clone dự án
-Clone repository từ GitHub hoặc tải ZIP và giải nén:
-```bash
